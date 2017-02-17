@@ -1,0 +1,23 @@
+TESTING COURSE CONTENT:
+-----------------------
+- Software Development Life Cycle (SDLC)
+- Software Testing Life Cycle (STLC)
+- Basics/Fundamentals of Testing
+- Test Planning, Test Case Designing & Execution
+- Importance of testing in SDLC & various kinds of testing approaches
+- Black Box ,White Box & Exploratory Testing
+- User Interface testing
+- Usability testing
+- Installation testing
+- Performance testing
+- Error Handling Checks
+- Introduction to Web Application Testing
+- Integration & System testing
+- Qualities of a good tester
+- Defect Reporting and Overview of a Defect Tracking Tool with Bug Life Cycle
+- Test Matrices and Defect Reports
+- Overview of Quality Standards (Six Sigma, CMM,CMMI & ISO)
+- Introduction to Database Testing
+- Overview of Regression Testing Automation Tool (Selenium/Winrunner)
+- Overview of Performance Testing Automation Tool (JMeter/LoadRunner)
+- Practicle/Case Study on a live system

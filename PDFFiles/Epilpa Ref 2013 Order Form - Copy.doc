@@ -1,0 +1,312 @@
+{\rtf1\ansi\ansicpg1252\uc1\deff0\stshfdbch0\stshfloch0\stshfhich0\stshfbi0\deflang1033\deflangfe1033{\fonttbl{\f0\froman\fcharset0\fprq2{\*\panose 02020603050405020304}Times New Roman;}
+{\f2\fmodern\fcharset0\fprq1{\*\panose 02070309020205020404}Courier New;}{\f3\froman\fcharset2\fprq2{\*\panose 05050102010706020507}Symbol;}{\f10\fnil\fcharset2\fprq2{\*\panose 05000000000000000000}Wingdings;}
+{\f39\froman\fcharset238\fprq2 Times New Roman CE;}{\f40\froman\fcharset204\fprq2 Times New Roman Cyr;}{\f42\froman\fcharset161\fprq2 Times New Roman Greek;}{\f43\froman\fcharset162\fprq2 Times New Roman Tur;}
+{\f44\froman\fcharset177\fprq2 Times New Roman (Hebrew);}{\f45\froman\fcharset178\fprq2 Times New Roman (Arabic);}{\f46\froman\fcharset186\fprq2 Times New Roman Baltic;}{\f47\froman\fcharset163\fprq2 Times New Roman (Vietnamese);}
+{\f59\fmodern\fcharset238\fprq1 Courier New CE;}{\f60\fmodern\fcharset204\fprq1 Courier New Cyr;}{\f62\fmodern\fcharset161\fprq1 Courier New Greek;}{\f63\fmodern\fcharset162\fprq1 Courier New Tur;}{\f64\fmodern\fcharset177\fprq1 Courier New (Hebrew);}
+{\f65\fmodern\fcharset178\fprq1 Courier New (Arabic);}{\f66\fmodern\fcharset186\fprq1 Courier New Baltic;}{\f67\fmodern\fcharset163\fprq1 Courier New (Vietnamese);}}{\colortbl;\red0\green0\blue0;\red0\green0\blue255;\red0\green255\blue255;
+\red0\green255\blue0;\red255\green0\blue255;\red255\green0\blue0;\red255\green255\blue0;\red255\green255\blue255;\red0\green0\blue128;\red0\green128\blue128;\red0\green128\blue0;\red128\green0\blue128;\red128\green0\blue0;\red128\green128\blue0;
+\red128\green128\blue128;\red192\green192\blue192;}{\stylesheet{\ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 \snext0 \styrsid15618480 Normal;}{\*\cs10 \additive \ssemihidden 
+Default Paragraph Font;}{\*\ts11\tsrowd\trftsWidthB3\trpaddl108\trpaddr108\trpaddfl3\trpaddft3\trpaddfb3\trpaddfr3\trcbpat1\trcfpat1\tscellwidthfts0\tsvertalt\tsbrdrt\tsbrdrl\tsbrdrb\tsbrdrr\tsbrdrdgl\tsbrdrdgr\tsbrdrh\tsbrdrv 
+\ql \li0\ri0\widctlpar\aspalpha\aspnum\faauto\adjustright\rin0\lin0\itap0 \fs20\lang1024\langfe1024\cgrid\langnp1024\langfenp1024 \snext11 \ssemihidden Normal Table;}}
+{\*\latentstyles\lsdstimax156\lsdlockeddef0{\lsdlockedexcept Normal;heading 1;heading 2;heading 3;heading 4;heading 5;heading 6;heading 7;heading 8;heading 9;toc 1;toc 2;toc 3;toc 4;toc 5;toc 6;toc 7;toc 8;toc 9;caption;Title;Default Paragraph Font;Subtitle;Strong;Emphasis;Table Grid;}}
+{\*\listtable{\list\listtemplateid-1596832236\listhybrid{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698699\'01\u-3880 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li1080
+\jclisttab\tx1080\lin1080 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li1800\jclisttab\tx1800\lin1800 }{\listlevel
+\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li2520\jclisttab\tx2520\lin2520 }{\listlevel\levelnfc23\levelnfcn23
+\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li3240\jclisttab\tx3240\lin3240 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li3960\jclisttab\tx3960\lin3960 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1
+\levelspace360\levelindent0{\leveltext\leveltemplateid67698693\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li4680\jclisttab\tx4680\lin4680 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0
+{\leveltext\leveltemplateid67698689\'01\u-3913 ?;}{\levelnumbers;}\f3\fbias0 \fi-360\li5400\jclisttab\tx5400\lin5400 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext
+\leveltemplateid67698691\'01o;}{\levelnumbers;}\f2\fbias0 \fi-360\li6120\jclisttab\tx6120\lin6120 }{\listlevel\levelnfc23\levelnfcn23\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace360\levelindent0{\leveltext\leveltemplateid67698693
+\'01\u-3929 ?;}{\levelnumbers;}\f10\fbias0 \fi-360\li6840\jclisttab\tx6840\lin6840 }{\listname ;}\listid136731952}{\list\listtemplateid-2034852238\listhybrid{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat2\levelspace0
+\levelindent0{\leveltext\leveltemplateid1956776520\'02\'00.;}{\levelnumbers\'01;}\fbias0 \fi-360\li5040\jclisttab\tx5040\lin5040 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698713\'02\'01.;}{\levelnumbers\'01;}\fi-360\li5760\jclisttab\tx5760\lin5760 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715
+\'02\'02.;}{\levelnumbers\'01;}\fi-180\li6480\jclisttab\tx6480\lin6480 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'03.;}{\levelnumbers\'01;}\fi-360\li7200
+\jclisttab\tx7200\lin7200 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698713\'02\'04.;}{\levelnumbers\'01;}\fi-360\li7920\jclisttab\tx7920\lin7920 }{\listlevel
+\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698715\'02\'05.;}{\levelnumbers\'01;}\fi-180\li8640\jclisttab\tx8640\lin8640 }{\listlevel\levelnfc0\levelnfcn0\leveljc0\leveljcn0
+\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext\leveltemplateid67698703\'02\'06.;}{\levelnumbers\'01;}\fi-360\li9360\jclisttab\tx9360\lin9360 }{\listlevel\levelnfc4\levelnfcn4\leveljc0\leveljcn0\levelfollow0\levelstartat1\levelspace0
+\levelindent0{\leveltext\leveltemplateid67698713\'02\'07.;}{\levelnumbers\'01;}\fi-360\li10080\jclisttab\tx10080\lin10080 }{\listlevel\levelnfc2\levelnfcn2\leveljc2\leveljcn2\levelfollow0\levelstartat1\levelspace0\levelindent0{\leveltext
+\leveltemplateid67698715\'02\'08.;}{\levelnumbers\'01;}\fi-180\li10800\jclisttab\tx10800\lin10800 }{\listname ;}\listid1749421522}}{\*\listoverridetable{\listoverride\listid136731952\listoverridecount0\ls1}{\listoverride\listid1749421522
+\listoverridecount0\ls2}}{\*\rsidtbl \rsid936209\rsid1001784\rsid1051062\rsid1180346\rsid1271766\rsid1450818\rsid1463439\rsid1657501\rsid1714486\rsid1865277\rsid2104854\rsid2231174\rsid2298278\rsid2432193\rsid2505360\rsid2703161\rsid2825333\rsid3039156
+\rsid3163311\rsid3438286\rsid3547255\rsid3941376\rsid4290492\rsid4356177\rsid4456521\rsid4932400\rsid5013263\rsid5182438\rsid5185023\rsid5188583\rsid5205703\rsid5326142\rsid5658800\rsid5713039\rsid6434220\rsid6555500\rsid6623675\rsid6773222\rsid7277427
+\rsid7289572\rsid7693109\rsid7829091\rsid7996434\rsid8215458\rsid8290110\rsid8485297\rsid9573399\rsid9764972\rsid9835227\rsid9912055\rsid10444131\rsid11015434\rsid11082211\rsid11215481\rsid11430250\rsid11686916\rsid11872322\rsid12719983\rsid12807883
+\rsid12847543\rsid12858255\rsid13061326\rsid13722844\rsid13771163\rsid14054954\rsid14229717\rsid14299561\rsid14303349\rsid14438014\rsid14500573\rsid14561982\rsid14566752\rsid14828803\rsid15618480\rsid15880455\rsid16740385}{\*\generator Microsoft Word 11.
+0.5604;}{\info{\title To, }{\author abc}{\operator newtech}{\creatim\yr2012\mo11\dy22\hr10\min51}{\revtim\yr2012\mo11\dy27\hr18\min48}{\printim\yr2011\mo11\dy23\hr16\min37}{\version3}{\edmins4}{\nofpages4}{\nofwords1350}{\nofchars7695}{\*\company xyz}
+{\nofcharsws9027}{\vern24689}}\paperw11909\paperh16834\margl900\margr929\margt90\margb4 \widowctrl\ftnbj\aenddoc\aftnstart0\aftnnar\noxlattoyen\expshrtn\noultrlspc\dntblnsbdb\nospaceforul\hyphcaps0\formshade\horzdoc\dgmargin\dghspace180\dgvspace180
+\dghorigin900\dgvorigin90\dghshow1\dgvshow1\jexpand\viewkind1\viewscale90\pgbrdrhead\pgbrdrfoot\splytwnine\ftnlytwnine\htmautsp\nolnhtadjtbl\useltbaln\alntblind\lytcalctblwd\lyttblrtgr\lnbrkrule\nobrkwrptbl\snaptogridincell\allowfieldendsel\wrppunct
+\asianbrkrule\rsidroot15618480\newtblstyruls\nogrowautofit \fet0\sectd \psz9\linex0\endnhere\sectdefaultcl\sectrsid6623675\sftnbj\saftnnar\saftnstart0 {\*\pnseclvl1\pnucrm\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl2
+\pnucltr\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl3\pndec\pnstart1\pnindent720\pnhang {\pntxta .}}{\*\pnseclvl4\pnlcltr\pnstart1\pnindent720\pnhang {\pntxta )}}{\*\pnseclvl5\pndec\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl6
+\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl7\pnlcrm\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl8\pnlcltr\pnstart1\pnindent720\pnhang {\pntxtb (}{\pntxta )}}{\*\pnseclvl9\pnlcrm\pnstart1\pnindent720\pnhang 
+{\pntxtb (}{\pntxta )}}\pard\plain \qj \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 \fs20\lang1033\langfe1033\cgrid\langnp1033\langfenp1033 {\fs24\insrsid15618480 
+\par 
+\par }{\insrsid15618480\charrsid9764972 
+\par 
+\par 
+\par }{\insrsid15618480 
+\par }\pard \qj \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid7996434 {\insrsid6623675 
+\par }{\fs14\insrsid7996434\charrsid11686916 
+\par }\pard \qj \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\insrsid9764972\charrsid9764972 
+\par }{\insrsid15618480\charrsid9764972 To, \tab \tab \tab \tab \tab \tab \tab \tab \tab \tab }{\insrsid3941376\charrsid11686916 10}{\super\insrsid3941376\charrsid11686916 th }{\super\insrsid2505360\charrsid11686916  }{\insrsid1463439\charrsid11686916 November
+}{\insrsid14229717\charrsid11686916 , }{\insrsid14566752\charrsid11686916 2}{\insrsid2825333\charrsid11686916 01}{\insrsid3941376\charrsid11686916 2}{\b\insrsid15618480\charrsid9764972 
+\par }{\insrsid15618480\charrsid9764972 ______________________
+\par ______________________
+\par ______________________
+\par 
+\par }\pard \qc \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\b\insrsid15618480\charrsid9764972 
+\par Sub: }{\b\ul\insrsid15618480\charrsid9764972 EPILPA-Referencer-201}{\b\ul\insrsid4456521 3}{\b\ul\insrsid15618480\charrsid9764972 .}{\b\insrsid15618480\charrsid9764972 
+\par }\pard \qj \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\insrsid15618480\charrsid9764972 Dear Sir,
+\par 
+\par It gives us pleasure in placing in your hand our valued publication viz. }{\b\insrsid15618480\charrsid9764972 'EPILPA-Referencer'}{\insrsid15618480\charrsid9764972  for the }{\insrsid14299561\charrsid9764972 S}{\insrsid11686916 event}{
+\insrsid15618480\charrsid9764972 eenth year in row.
+\par }{\fs14\insrsid15618480\charrsid9764972 
+\par }{\insrsid15618480\charrsid9764972 Our Referencer has not only delighted the minds of labour practitioners' and the authorities on the subject but even common person too referring to it as an aptitude subject for the general test.
+\par 
+\par }{\ul\insrsid15618480\charrsid9764972 Our experience is that the demand for the Referencer received by us when the stock is exhausted, thereby many of the dignities have been disappointed who requested us to print more copies to the s}{
+\ul\insrsid1463439\charrsid9764972 atisfaction of the requisionist, but such repr}{\ul\insrsid6555500\charrsid9764972 i}{\ul\insrsid1463439\charrsid9764972 nting becomes costly}{\ul\insrsid6555500\charrsid9764972  and time consuming.}{
+\ul\insrsid15618480\charrsid9764972 
+\par }{\insrsid15618480\charrsid9764972 
+\par We are thankful to our patrons and the well wishers who have proposed certain constructive suggestions, which we have taken care of and intend to implement and also request you to }{\ul\insrsid15618480\charrsid9764972 send such constructive suggestion }{
+\ul\insrsid1463439\charrsid9764972 from time to time.
+\par }{\insrsid1463439\charrsid9764972 
+\par }{\insrsid15618480\charrsid9764972 We, therefore have in mind, to make available the}{\insrsid1463439\charrsid9764972  EPILPA Referencer -201}{\insrsid2432193 3}{\insrsid1463439\charrsid9764972  by }{\insrsid14438014\charrsid11686916 24}{
+\super\insrsid14438014\charrsid11686916 th}{\insrsid14438014\charrsid11686916  }{\insrsid15618480\charrsid11686916 of December, 201}{\insrsid3941376\charrsid11686916 2}{\insrsid15618480\charrsid9764972 
+, as per amount given below for delivery at administration office of the association.
+\par 
+\par }{\b\insrsid15618480\charrsid9764972 1.\tab For EPILPA Members}{\b\insrsid11430250\charrsid9764972  }{\b\insrsid3438286\charrsid9764972             }{\b\insrsid12858255       }{\b\insrsid3438286\charrsid9764972 - }{\b\insrsid15618480\charrsid9764972 
+Rs.175/- per Referencer.
+\par 
+\par 2.\tab For Non-Members\tab \tab }{\b\insrsid12858255  }{\b\insrsid15618480\charrsid9764972 -}{\b\insrsid3438286\charrsid9764972  }{\b\insrsid15618480\charrsid9764972 Rs.225/-per Referencer.
+\par }\pard \qj \fi-720\li720\ri-61\widctlpar\nooverflow\faroman\rin-61\lin720\itap0\pararsid15618480 {\b\insrsid15618480\charrsid9764972 
+\par 3.\tab }{\b\ul\insrsid15618480\charrsid9764972 Delivery charges per}{\b\ul\insrsid14438014\charrsid9764972  each}{\b\ul\insrsid15618480\charrsid9764972  Referencer by courier / post}{\b\insrsid15618480\charrsid9764972  
+\par  \tab }{\b\insrsid14054954\charrsid9764972 
+\par }\pard \qj \li720\ri-61\widctlpar\nooverflow\faroman\rin-61\lin720\itap0\pararsid14054954 {\b\insrsid15618480\charrsid9764972 (a) For Local Delivery\tab \tab }{\b\insrsid12858255  }{\b\insrsid15618480\charrsid9764972 - Rs.25/- 
+\par }\pard \qj \fi-720\li720\ri-61\widctlpar\nooverflow\faroman\rin-61\lin720\itap0\pararsid15618480 {\b\insrsid15618480\charrsid9764972  \tab (b) For out station \tab \tab }{\b\insrsid12858255  }{\b\insrsid15618480\charrsid9764972 - Rs.50/-\tab 
+\par }\pard \qj \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\insrsid15618480\charrsid9764972 
+\par In order to ensure your demand, we shall be pleased to have your requisition }{\insrsid11686916 preferably }{\insrsid3941376 by 8}{\super\insrsid3941376\charrsid3941376 th}{\insrsid11686916  }{\insrsid3941376 Dec 2012 }{\insrsid15618480\charrsid9764972 
+alongwith your Cheque/D.D. to be drawn in favour of }{\b\insrsid15618480\charrsid9764972 "E.S.I., P.F. & OTHER INDUSTRIAL LAW PRACTITIONERS' ASSOCIATION"}{\insrsid15618480\charrsid9764972  or }{\b\insrsid15618480\charrsid9764972 "EPILPA"}{
+\insrsid15618480\charrsid9764972  }{\insrsid3941376 to avoid any last minute hassle specially for }{\insrsid11686916 bulk}{\insrsid3941376  order}{\insrsid11686916 .}{\insrsid15618480\charrsid9764972 
+\par 
+\par The contents and salient feature of EPILPA Referencer-201}{\insrsid2432193 3}{\insrsid15618480\charrsid9764972 , }{\insrsid1463439\charrsid9764972 along with}{\insrsid15618480\charrsid9764972  order form is enclosed.
+\par  
+\par Thanking You,
+\par }\pard \qj \li0\ri-58\widctlpar\nooverflow\faroman\rin-58\lin0\itap0\pararsid9764972 {\fs6\insrsid12847543\charrsid9764972 
+\par }{\insrsid15618480\charrsid9764972 Yours faithfully,
+\par }\pard \qj \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs12\insrsid12847543\charrsid9764972 
+\par }{\b\insrsid15618480\charrsid9764972 For E.S.I., P.F. & OTHER INDUSTRIAL LAW
+\par }{\b\insrsid5658800\charrsid9764972         }{\b\insrsid15618480\charrsid9764972 PRACTITIONERS' ASSOCIATION
+\par }{\fs2\insrsid15618480\charrsid6623675 
+\par }{\insrsid15618480\charrsid9764972 
+\par 
+\par }\pard \qj \fi720\li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid1463439 {\b\insrsid1463439\charrsid9764972 Vivek}{\b\insrsid15618480\charrsid9764972  Mangaonkar 
+\par }{\b\insrsid1463439\charrsid9764972 General Secretary}{\b\insrsid15618480\charrsid9764972 
+\par }\pard \qj \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\b\insrsid15618480\charrsid9764972 
+\par }\pard \qj \fi-1350\li1350\ri-61\widctlpar\nooverflow\faroman\rin-61\lin1350\itap0\pararsid15618480 {\b\fs19\insrsid11082211\charrsid9764972 N B:}{\b\fs19\insrsid15618480\charrsid9764972      1.\tab }{\b\fs19\ul\insrsid15618480\charrsid9764972 
+IN CASE OF OUTSTATION BOOKING, PLEASE SEND \'93DEMAND DRAFT\'94, ONLY ALONG WITH DILIVERY CHARGES RS.50/- PER EACH COPY OF REFERENCER. }{\b\fs19\ul\insrsid1463439\charrsid9764972  NO CHEQUE PAYMENT WILL BE ACCEPTABLE}{
+\b\fs19\insrsid15618480\charrsid9764972 
+\par }\pard \qj \fi-720\li720\ri-61\widctlpar\nooverflow\faroman\rin-61\lin720\itap0\pararsid15618480 {\b\fs19\insrsid15618480\charrsid9764972 
+\par }\pard \qj \fi-1530\li1350\ri-61\widctlpar\tx720\tx1170\tx1350\nooverflow\faroman\rin-61\lin1350\itap0\pararsid3547255 {\b\fs19\insrsid15618480\charrsid9764972              }{\b\fs19\insrsid11082211\charrsid9764972  }{
+\b\fs19\insrsid15618480\charrsid9764972  }{\b\fs19\insrsid15880455  }{\b\fs19\insrsid15618480\charrsid9764972 2.  }{\b\fs19\ul\insrsid2505360\charrsid9764972 PLEASE NOTE (A) THAT }{\b\fs19\ul\insrsid15618480\charrsid9764972 
+ORDER FOR REFRENCER WILL ONLY BE                                                 EXECUTED AGAINST PAYMENT RECEIVED. }{\b\fs19\ul\insrsid2505360\charrsid9764972 
+\par }\pard \qj \fi-1530\li1350\ri-61\widctlpar\tx720\tx1170\tx1620\nooverflow\faroman\rin-61\lin1350\itap0\pararsid2505360 {\b\fs19\insrsid2505360\charrsid9764972 \tab \tab \tab (B) }{\b\fs19\ul\insrsid2505360\charrsid9764972 THAT }{
+\b\fs19\ul\insrsid1463439\charrsid9764972 NO REFERENCER WILL BE SUPPLIED ON ACCOUNT.}{\b\fs19\ul\insrsid15618480\charrsid9764972 
+\par }\pard \ql \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480\charrsid1463439 
+\par }{\fs22\insrsid15618480 
+\par }\pard \qc \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 
+\par 
+\par }\pard \ql \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 
+\par }\pard \qc \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 
+\par 
+\par }{\b\fs26\insrsid15618480\charrsid5658800 
+\par }\pard \qc \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\b\insrsid15618480\charrsid15618480 E.S.I., P.F., & OTHER INDUSTRIAL LAW RACTITIONERS ASSOCIATION
+\par Contents and Salient feature of the EFILPA REFERENCE \endash  201}{\b\insrsid7289572 3}{\b\insrsid15618480\charrsid15618480 .
+\par }{\insrsid15618480 
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\insrsid15618480 Employees\tab \tab -A Brief Note                                                
+\par State \tab \tab \tab -Table of Standard Benefit Rate/Temporary
+\par Insurance \tab \tab   Disablement / Dependent Benefit Rate/Maternity Benefit Rate
+\par \tab \tab \tab -Records to be kept ready for Inspection
+\par \tab \tab \tab -Benefits at a Glance
+\par \tab \tab \tab -Important Changes at a glance since inception
+\par \tab \tab \tab -Addresses of ESIC Regional Office m
+\par \tab \tab \tab -List of ESI Local Offices, Dispensaries, Hospitals and
+\par \tab \tab \tab   address in Mumbai Area, Pune Region, Nagpur Region, Goa
+\par \tab \tab \tab   State including list of hospitals where beds are reserved
+\par \tab \tab \tab   in Mumbai and outside Mumbai area                                             
+\par \tab \tab \tab -List of ESI Local Offices, Dispensaries Hospitals and its
+\par \tab \tab \tab   addresses in Gujarat State
+\par \tab \tab               -Implemented and Non-Implemented Area of Maharashtra and \tab \tab \tab   \tab }{\insrsid5182438                }{\insrsid936209 \tab }{\insrsid5182438  }{\insrsid15618480 Gujarat State
+\par \tab \tab \tab -List of Documents Required for Final Date of Coverage
+\par \tab \tab \tab   (FDC)-ESI/PF
+\par 
+\par Act. 1948\tab \tab -A Brief Note
+\par Employees'\tab \tab -Important changes at a glance since inception
+\par Provident\tab \tab -Benefits under EPF Scheme at a glance
+\par }\pard \ql \li0\ri56\widctlpar\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7669\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\insrsid15618480 Fund&\tab \tab \tab  Rate of interest on PF Accumulations since inception
+\tab 
+\par }\pard \ql \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\insrsid15618480 Miscella-\tab \tab -Rate of Damages on delayed payments
+\par Neous\tab \tab \tab -Documents required for obtaining Recognition to Provident
+\par Provisions\tab \tab  Fund Trust from Commissioner of Income Tax
+\par Act 1952\tab \tab -Employees Deposit Linked Insurance Scheme, 1976
+\par \tab \tab \tab -A Brief Note of Employees Pension Scheme, 1995
+\par \tab \tab \tab -Addresses of Regional Provident Fund Offices in India
+\par \tab \tab \tab -Addresses of Sub-Regional Offices in Maharashtra State
+\par \tab \tab 
+\par Factories\tab \tab -Table Showing Factory License Fees
+\par Act 1948\tab \tab -Registers and Records to be maintained and made available
+\par \tab \tab \tab  for inspection, and the reports and returns to be submitted
+\par \tab \tab \tab -Scales prescribed for some safety, health and welfare measures
+\par \tab \tab \tab -Dangerous operations under Maharashtra Factories Rule, 114,
+\par \tab \tab \tab - framed under Section S7ofthe F.A. 194S
+\par \tab \tab \tab -Addresses of the Factory Offices (DISH) Situated in Maharashtra \tab \tab \tab \tab                 }{\insrsid16740385               }{\insrsid15618480 State
+\par 
+\par Shops and\tab \tab -Submission of various Forms under Shops and Estt, Act
+\par Estt. Act,\tab \tab -Table showing Fees for Registration and Renewal of
+\par 1948\tab \tab \tab  Registration certificate
+\par \tab \tab \tab -Fees of Changes
+\par 
+\par Mumbai\tab \tab               -Its applicability and eligibility
+\par Labour\tab \tab              -Rate of Contribution
+\par Wsllare\tab \tab              -Submission o}{\insrsid8215458 f}{\insrsid15618480  Return and address of its authorities
+\par FunUct,1953
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid1271766 {\insrsid15618480 
+\par }{\insrsid1271766 
+\par 
+\par 
+\par }\pard \qc \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\insrsid15618480 
+\par }{\insrsid1271766 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par 
+\par }{\insrsid15618480 
+\par }{\b\insrsid15618480\charrsid8290110 ==2==
+\par }\pard \ql \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\insrsid15618480 
+\par 
+\par Contract\tab \tab                 -Forms to be submitted for obtaining Licence, Registers & Records
+\par Labour(R&A)\tab \tab  to be maintained and made available for Inspection and the
+\par Act, 1070\tab \tab  Reports and Returns to be submitted by the Licensing Contractor
+\par \tab \tab \tab -Forms to be submitted for Registration. 'Records of be maintained
+\par \tab \tab \tab & Returns to be submitted by the Principal Employer
+\par \tab \tab \tab -Table of Licence Fees and Registration Fees
+\par 
+\par A Brief\tab \tab                -The Maternity Benefit Act, 1961
+\par Note on\tab \tab                -The Payment of Bonus Act, 1965
+\par \tab \tab                 -The Payment of Gratuity Act, 1972
+\par \tab \tab \tab -Workmen Compensation Act, 1923
+\par \tab \tab \tab -The Payment of Wages Act, 1932
+\par \tab \tab \tab -Industrial Employment (Standing Orders) Act, 1946
+\par \tab \tab \tab -The Maharashtra Workmen's Minimum House Rent Allowance Act' \tab \tab \tab                                1983
+\par \tab \tab \tab -M.R.T.U. & P.U.L.P. Act, 1971.
+\par \tab \tab \tab -Address of the offices of the Commissioner of Labour for \tab \tab \tab \tab \tab                 }{\insrsid14303349 \tab }{\insrsid15618480 Maharashtra state.
+\par \tab \tab \tab -Liabilities of }{\insrsid14561982 Directors &}{\insrsid15618480  Officers of Companies.
+\par \tab \tab 
+\par Minimum\tab \tab -A Brief Note
+\par Wages Act\tab \tab - Minimum Rate of Wages for }{\insrsid14561982 Zone!}{\insrsid15618480 
+\par 1948\tab \tab \tab -The rates of Special Allowance (DA) for Zone I for the
+\par \tab \tab   \tab   period from 01.01,95 & onwards
+\par \tab \tab \tab -Table for Monthly Consumer Price Index
+\par \tab \tab \tab -How to calculate Special Allowance (DA)
+\par 
+\par Maharashtra\tab \tab - Schedule of rates of tax on professions, Trades, calling
+\par Professional\tab \tab   and Employments since 01.10.95 to date
+\par TaxAct.l975
+\par 
+\par 
+\par Income Tax\tab \tab - Information under Income Tax
+\par 
+\par }\pard \qj \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\insrsid15618480 The Consumer\tab \tab -A Brief Note
+\par Protection \tab \tab - List of Addresses of consumer Disputes Redressal forums for the Act, 1986\tab \tab                                state of Maharashtra, Goa & Gujarat
+\par }\pard \ql \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\insrsid15618480 
+\par 
+\par }\pard \qj \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\insrsid15618480 In\tab \tab \tab - Legal Phrases & Words
+\par addition\tab \tab               - A Month wise Checklist for submission of various returns
+\par to above\tab \tab               - Checklist for submission of various returns Monthly/on occurrence
+\par \tab \tab \tab - Pin Code Nos. of Mumbai Area
+\par \tab \tab \tab - Important Telephone Numbers & Addresses,
+\par \tab \tab \tab - Conversion Tables, Weights & Measures
+\par \tab \tab \tab -List of Holidays for 20}{\insrsid11015434 1}{\insrsid9835227 3}{\insrsid15618480 
+\par \tab \tab \tab   STD Codes
+\par 
+\par }\pard \ql \li0\ri56\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\insrsid15618480 
+\par Plus\tab \tab \tab -Two days a page planner for noting your appointments.
+\par 
+\par Size of\tab \tab \tab - 9.5" X 7" (Hard Bound)
+\par the  Referencer
+\par 
+\par }\pard \qc \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 
+\par 
+\par 
+\par 
+\par }\pard \ql \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\b\fs24\ul\insrsid15618480 
+\par }{\b\fs24\ul\insrsid1271766 
+\par 
+\par }\pard \qc \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\b\fs24\ul\insrsid15618480\charrsid10444131 ORDER FORM
+\par }\pard \ql \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs14\insrsid15618480 
+\par }{\fs14\insrsid1271766 
+\par }{\fs14\insrsid1271766\charrsid5188583 
+\par }\pard \ql \li4320\ri-61\widctlpar\nooverflow\faroman\rin-61\lin4320\itap0\pararsid15618480 {\fs22\insrsid15618480 FROM: }{\fs22\ul\insrsid15618480\charrsid5326142 Name}{\fs22\ul\insrsid15618480 
+ :-                                                                }{\fs22\insrsid15618480\charrsid5326142 
+\par }\pard \ql \fi720\li4320\ri-61\widctlpar\nooverflow\faroman\rin-61\lin4320\itap0\pararsid15618480 {\fs22\ul\insrsid15618480\charrsid5326142 Membership No}{\fs22\ul\insrsid15618480  :-}{\fs22\ul\insrsid15618480\charrsid5326142   }{\fs22\ul\insrsid15618480 
+                                            }{\fs22\insrsid15618480\charrsid5326142 
+\par }\pard \ql \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 \tab \tab \tab \tab \tab \tab              }{\fs22\ul\insrsid15618480\charrsid5326142 Address}{\fs22\ul\insrsid15618480 
+ :-                                                             }{\fs22\insrsid15618480 
+\par }\pard \ql \li4320\ri-61\widctlpar\nooverflow\faroman\rin-61\lin4320\itap0\pararsid15618480 {\fs22\insrsid15618480              _____________________________________
+\par }\pard \ql \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 \tab \tab \tab \tab \tab \tab \tab _____________________________________
+\par }\pard \ql \li0\ri-61\widctlpar\tx5090\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480                                                                                            _____________________________________
+\par                                                                                            _____________________________________
+\par }\pard \ql \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 \tab \tab \tab \tab \tab            }{\fs22\insrsid7693109 
+\par }\pard \ql \li4320\ri-61\widctlpar\nooverflow\faroman\rin-61\lin4320\itap0\pararsid1865277 {\fs22\insrsid15618480 DATE:           /        /\tab }{\fs22\insrsid1865277 
+\par }{\fs22\insrsid15618480 \tab }{\fs16\insrsid15618480\charrsid5188583 
+\par }\pard \ql \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 To,
+\par The E.S.I., P.F. & OTHER INDUSTRIAL 
+\par LAW PRACTITIONERS\rquote  ASSOCIATION,
+\par A/2, Shreyas Co-op, Hsg. Soc. Ltd.,
+\par Kasturba Cross Road No. 9,
+\par Borivali (East),
+\par }{\fs22\ul\insrsid15618480\charrsid13061326 Mumbai \endash  400 066.
+\par }{\fs18\insrsid15618480\charrsid5188583 
+\par }\pard \qc \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\b\fs22\ul\insrsid15618480 SUB: Epilpa Referencer \endash  201}{\b\fs22\ul\insrsid4290492 3}{\b\fs22\ul\insrsid15618480\charrsid13722844 
+\par }\pard \qj \li0\ri-61\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 Dear Sir,
+\par }\pard \qj \li0\ri-61\sl360\slmult1\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs8\insrsid15618480\charrsid5188583 
+\par }{\fs22\insrsid15618480 We are pleased to place an order for _____Nos. of EPILPA Referencer 201}{\fs22\insrsid4290492 3}{\fs22\insrsid15618480 .
+\par }{\fs8\insrsid15618480\charrsid5188583 
+\par {\listtext\pard\plain\f10\fs22\insrsid15618480 \loch\af10\dbch\af0\hich\f10 \'d8\tab}}\pard \qj \fi-360\li1080\ri-61\sl360\slmult1\widctlpar\jclisttab\tx1080\nooverflow\faroman\ls1\rin-61\lin1080\itap0\pararsid15618480 {\fs22\insrsid15618480 
+We will collect the same from the Administrative office of the Association.
+\par {\listtext\pard\plain\f10\fs22\insrsid15618480 \loch\af10\dbch\af0\hich\f10 \'d8\tab}We request you to dispatch the Referencer by post / courier and necessary delivery charges paid as below.
+\par {\listtext\pard\plain\f10\fs22\insrsid15618480 \loch\af10\dbch\af0\hich\f10 \'d8\tab}\tab 1)\tab _____Nos. X Rs. 175.00=Rs. ________ (For EPILPA  members)
+\par {\listtext\pard\plain\f10\fs22\insrsid15618480 \loch\af10\dbch\af0\hich\f10 \'d8\tab}\tab 2)\tab _____Nos. X Rs. 225.00=Rs. ________ (For Non \endash  Members)
+\par {\listtext\pard\plain\f10\fs22\insrsid15618480 \loch\af10\dbch\af0\hich\f10 \'d8\tab}\tab 3)  a)     Delivery charges No. _____ X Rs. 50 _____
+\par {\listtext\pard\plain\f10\fs8\insrsid15618480 \loch\af10\dbch\af0\hich\f10 \'d8\tab}}{\fs8\insrsid15618480                                  }{\fs22\insrsid15618480 b)     Delivery charges No. _____  X Rs. 25 _____}{\fs22\insrsid15618480\charrsid6773222 
+
+\par }\pard \qj \li0\ri-61\sl360\slmult1\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs8\insrsid15618480\charrsid5188583 
+\par }{\fs22\insrsid15618480 Enclosed herewith a cheque / Demand Draft for Rs. ____ bearing cheque / Demand Draft No. ________ dated____________ drawn on __________________________________.
+\par }{\fs12\insrsid15618480\charrsid5188583 
+\par }{\fs22\insrsid15618480 Thanking You,
+\par }{\fs6\insrsid15618480\charrsid6434220 
+\par }{\fs2\insrsid15618480\charrsid6434220 
+\par }{\fs22\insrsid15618480 \tab \tab \tab \tab \tab \tab \tab \tab \tab }{\fs22\insrsid1463439 \tab }{\fs22\insrsid15618480 Yours Faithfully,
+\par \tab \tab \tab \tab \tab \tab \tab \tab \tab 
+\par \tab \tab \tab \tab \tab \tab \tab \tab         }{\fs22\insrsid1463439 \tab \tab }{\fs22\insrsid15618480 (                            )
+\par }{\b\fs22\insrsid15618480\charrsid12719983 N.B.
+\par }\pard \qj \fi-720\li720\ri-61\sl360\slmult1\widctlpar\nooverflow\faroman\rin-61\lin720\itap0\pararsid12858255 {\fs22\insrsid15618480 1.\tab Cheque / Demand Draft to be drawn in favour of }{\b\fs22\insrsid15618480\charrsid1180346 \'93
+E.S.I., P.F. & Other industrial Law practitioners\rquote  }{\b\fs22\insrsid12858255   }{\b\fs22\insrsid15618480\charrsid1180346 Association\'94}{\fs22\insrsid15618480  }{\fs22\insrsid1463439 or}{\fs22\insrsid1180346  \'93}{
+\b\fs22\insrsid15618480\charrsid1180346 EPILPA\'94
+\par {\listtext\pard\plain\fs22\insrsid15618480 \hich\af0\dbch\af0\loch\f0 2.\tab}}\pard \qj \fi-720\li720\ri-61\sl360\slmult1\widctlpar\jclisttab\tx720\tx810\nooverflow\faroman\ls2\rin-61\lin720\itap0\pararsid12858255 {\fs22\insrsid15618480 
+In case of outstation booking, please send }{\b\fs22\insrsid15618480\charrsid1180346 \'93DEMAND DRAFT\'94}{\fs22\insrsid15618480 , only along with Delivery Charges }{\fs22\insrsid12858255  }{\fs22\insrsid15618480 Rs. 50/- per Referencer.
+\par }\pard \qj \li0\ri-61\sl360\slmult1\widctlpar\nooverflow\faroman\rin-61\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480\charrsid1714486 3.}{\fs22\insrsid15618480 \tab Local delivery charges Rs. 25/- per Referencer.
+\par }\pard \ql \li0\ri56\sl360\slmult1\widctlpar\nooverflow\faroman\rin56\lin0\itap0\pararsid15618480 {\fs22\insrsid15618480 4.\tab (}{\b\fs22\insrsid15618480\charrsid10444131 >}{\fs22\insrsid15618480 ) Strike which is not applicable.
+\par }{\fs8\insrsid12719983\charrsid12719983 
+\par }{\fs6\insrsid15618480\charrsid7829091 
+\par }{\b\fs22\insrsid15618480 N B}{\b\fs22\insrsid7277427 : -}{\b\fs22\insrsid15618480    Kindly give complete details in form to execute order.}{\fs22\insrsid15618480 
+\par }\pard \ql \li0\ri0\widctlpar\nooverflow\faroman\rin0\lin0\itap0 {\insrsid15618480 
+\par }}

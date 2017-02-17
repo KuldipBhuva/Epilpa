@@ -1,0 +1,351 @@
+/* CSS Document */
+
+body
+{
+    background-color: #3D3D3D;
+    margin: 0px;
+}
+
+.mainlink a
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.mainlink a:hover
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    font-weight: bold;
+    color: #00202B;
+}
+
+.bg_top
+{
+    background-image: url(images/bg_top.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    height: 69px;
+}
+
+.bg_link
+{
+    background-position: top;
+    background-image: url(images/bg_link.jpg);
+    background-repeat: repeat-x;
+}
+
+.logo
+{
+    font-family: Georgia, "Times New Roman" , Times, serif;
+    font-size: 20px;
+    color: #9D7404;
+    font-stretch: ultra-condensed;
+    font-weight: bold;
+}
+
+.bg_sidelink
+{
+    background-image: url(images/bg_side_link.jpg);
+    height: 232px;
+    background-repeat: no-repeat;
+}
+
+.text_regino
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #FFFFCC;
+}
+
+.text_addrs
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 9px;
+    color: #C6C6C6;
+    font-weight: bold;
+}
+
+.text_copy
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #7F7E7E;
+}
+
+.text_copy a
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #7F7E7E;
+    text-decoration: none;
+}
+
+.text_copy a:hover
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+    color: #666666;
+    text-decoration: none;
+}
+
+.text_s_link
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #100F0F;
+    text-decoration: none;
+}
+
+.text_s_link a
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #120F0F;
+    text-decoration: none;
+}
+
+.text_s_link a:hover
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #C6C6C6;
+    text-decoration: underline;
+}
+
+.sidelink a
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #DAD9A9;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.sidelink a:hover
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #E57979;
+}
+
+.regilink a
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #08516B;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.regilink a:hover
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    text-decoration: underline;
+    font-weight: bold;
+    color: #08516B;
+}
+
+.bg_newslink
+{
+    background-image: url(images/bg_news.jpg);
+    height: 195px;
+    background-repeat: no-repeat;
+}
+
+.text_news
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10px;
+    color: #A9CFDA;
+}
+
+.tit
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    color: #514F4F;
+}
+
+.text
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.text_home
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 11px;
+}
+
+.bg_login
+{
+    background-image: url(images/bg_login_dd.jpg);
+    background-position: right;
+    background-position: top;
+    background-repeat: no-repeat;
+}
+
+.tit_icon
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #A10B1C;
+    font-weight: bold;
+}
+
+.tit_icon a
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #037B9A;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.tit_icon a:hover
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    font-size: 13px;
+    color: #037B9A;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.bg_line
+{
+    background-image: url(images/h_line.jpg);
+    background-position: left;
+    background-position: top;
+    background-repeat: repeat-x;
+}
+
+.table
+{
+    height: auto;
+    border: 1px solid #08516B;
+    background-color: #FFFFFF;
+    border-collapse: collapse;
+    padding: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    color: #000000;
+}
+
+.box
+{
+    border: thin solid #D0E4ED;
+}
+#profile_pic_wrapper
+{
+    position: relative;
+    border: #ccc solid 1px;
+    width: 160px;
+    height: 160px;
+}
+#profile_pic_wrapper a
+{
+    position: absolute;
+    display: none;
+    top: 0;
+    right: 0;
+    line-height: 20px;
+    padding: 5px;
+    color: #fff;
+    background-color: #333;
+    text-decoration: underline;
+}
+#profile_pic_wrapper:hover a
+{
+    display: block;
+}
+#profile_pic_wrapper:hover a:hover
+{
+    text-decoration: none;
+}
+.profile_pic
+{
+    width: 155px;
+    height: 160px;
+}
+.MyTabStyle .ajax__tab_header
+{
+    font-family: 'Open Sans' , helvetica, arial, sans-serif;
+    font-size: 12px;
+    display: block;
+}
+.MyTabStyle .ajax__tab_header .ajax__tab_outer
+{
+    border-color: #222;
+    color: #222;
+    padding-left: 0px;
+    margin-right: 0px;
+    border: solid 1px #d7d7d7;
+    width: 130px;
+    text-align: center;
+}
+.MyTabStyle .ajax__tab_header .ajax__tab_inner
+{
+    border-color: #666;
+    color: #666;
+    padding: 3px 10px 2px 0px;
+}
+.MyTabStyle .ajax__tab_hover .ajax__tab_outer
+{
+    background-color: rgb(65, 73, 89);
+}
+.MyTabStyle .ajax__tab_hover .ajax__tab_inner
+{
+    color: White;
+    border-color: #333;
+}
+.MyTabStyle .ajax__tab_active .ajax__tab_outer
+{
+    border-bottom-color: #ffffff;
+    background-color: rgb(140, 51, 51);
+}
+.MyTabStyle .ajax__tab_active .ajax__tab_inner
+{
+    color: White;
+    border-color: #333;
+}
+.MyTabStyle .ajax__tab_body
+{
+    font-family: 'Open Sans' , helvetica, arial, sans-serif;
+    border: solid 2px #d7d7d7;
+    padding: 20px;
+}
+.Rowtdlbl
+{
+    width: 50%;
+    padding: 10px 20px 10px 0px;
+    text-align: right;
+    vertical-align: middle;
+}
+fieldset
+{
+    border: 1px solid #000000;
+    margin-top: 3.0em;
+}
+
+legend
+{
+    padding: 0.2em 0.5em;
+    border: 1px solid #999;
+    color: White;
+    font-size: 14px;
+    text-align: left;
+    background-color: #761E1D;
+}
+
+
+
+

@@ -1,0 +1,14 @@
+marchingstomachs
+marchingstomachs
+
+75.125.52.66
+
+10208497456
+
+9824488033
+
+
+http://www.htmlcodetutorial.com/quicklist.html
+http://www.w3schools.com/HTML/html_intro.asp
+
+<add name="marchingstomachsConnectionString" connectionString="Data Source=DEVYANI;Initial Catalog=marchingstomachs;Integrated Security=True" providerName="System.Data.SqlClient"/>

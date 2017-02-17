@@ -1,0 +1,481 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="Main.master.cs" Inherits="Main" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="asp" %>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>EPILPA</title>
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <style type="text/css">
+        .style2
+        {
+            height: 13px;
+        }
+        .style4
+        {
+            width: 519px;
+            font-weight: 700;
+            font-size: small;
+            text-align: center;
+            color: #B31313;
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <table width="1000" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+            <tr>
+                <td>
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0" style="border: medium outset #808080">
+                        <tr>
+                            <td width="224" align="center" valign="middle" bgcolor="#ccffff">
+                                &nbsp;<img src="images/symbol.jpg" alt="symbol" width="168" height="79" vspace="9" />
+                            </td>
+                            <td>
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td height="69" valign="middle" class="bg_top">
+                                            <table border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td class="tit_icon">
+                                                        &nbsp; <a href="#">
+                                                            <asp:LinkButton ID="lblprofile" runat="server" Text="My Profile" Visible="false"
+                                                                OnClick="lblprofile_Click" Font-Bold="True" Font-Size="Large"></asp:LinkButton></a>
+                                                    </td>
+                                                    <td align="right" class="tit_icon">
+                                                        <span class="text">Welcome
+                                                            <asp:Label ID="lblusername" runat="server" Text="Guest"></asp:Label></span>
+                                                        | <a href="#">
+                                                            <asp:LinkButton ID="lbtnLogOut" runat="server" OnClick="lbtnLogOut_Click" Text="Logout"
+                                                                Visible="false">
+                                                            </asp:LinkButton></a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="style4">
+                                                        &nbsp;
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td class="style4">
+                                                        E.S.I., P.F. &amp; OTHER INDUSTRIAL LAW PRACTITIONERS' ASSOCIATION
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height="32" valign="top" class="bg_link">
+                                            <table border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td width="105" align="center" valign="middle" class="mainlink">
+                                                        <a href="index.aspx">Home</a>
+                                                    </td>
+                                                    <td align="center" valign="middle">
+                                                        <img src="images/bg_link_div.jpg" width="7" height="32" />
+                                                    </td>
+                                                    <td width="115" align="center" valign="middle" class="mainlink">
+                                                        <a href="About.aspx">About Us</a>
+                                                    </td>
+                                                    <td align="center" valign="middle">
+                                                        <img src="images/bg_link_div.jpg" width="7" height="32" />
+                                                    </td>
+                                                    <td width="197" align="center" valign="middle" class="mainlink">
+                                                        <a href="committee.aspx">Managing Committee</a>
+                                                    </td>
+                                                    <td align="center" valign="middle">
+                                                        <img src="images/bg_link_div.jpg" width="7" height="32" />
+                                                    </td>
+                                                    <td width="115" align="center" valign="middle" class="mainlink">
+                                                        <a href="contact.aspx">Contact Us</a>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="224" align="center" valign="top" bgcolor="#5F1818">
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td align="left" class="bg_sidelink">
+                                            <table border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td>
+                                                        <img src="images/tit_member.jpg" alt="Member's Corner" width="208" height="52" />
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td>
+                                                        <table border="0" cellspacing="0" cellpadding="3">
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="images/bull_link.jpg" width="6" height="6" />
+                                                                </td>
+                                                                <td align="left" class="sidelink">
+                                                                    <asp:LinkButton ID="LinkButton1" Text="Constitution" Font-Names="Verdana" 
+                                                                        runat="server" onclick="LinkButton1_Click" />
+                                                                    <%--<linkbutton href="constitution.aspx">Constitution</linkbutton>--%>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="images/bull_link.jpg" width="6" height="6" />
+                                                                </td>
+                                                                <td align="left" class="sidelink">
+                                                                   <asp:LinkButton ID="LinkButton2" Text="News Room" Font-Names="Verdana" 
+                                                                        runat="server" onclick="LinkButton2_Click" ></asp:LinkButton>
+                                                                        <%-- <a href="news.aspx" target="_blank">News Room</a>--%>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="images/bull_link.jpg" width="6" height="6" />
+                                                                </td>
+                                                                <td align="left" class="sidelink">
+                                                                <asp:LinkButton ID="LinkButton3" Text="Bulletin" Font-Names="Verdana" 
+                                                                        runat="server" onclick="LinkButton3_Click"  ></asp:LinkButton>
+                                                                  <%--  <a href="Bulliten.aspx">Bulletin</a>--%>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="images/bull_link.jpg" width="6" height="6" />
+                                                                </td>
+                                                                <td align="left" class="sidelink">
+                                                                 <asp:LinkButton ID="LinkButton4" Text="Annual reports" Font-Names="Verdana" 
+                                                                        runat="server" onclick="LinkButton4_Click"  ></asp:LinkButton>
+                                                                    <%--<a href="Annual_Reports.aspx" target="_blank">Annual reports</a>--%>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="images/bull_link.jpg" width="6" height="6" />
+                                                                </td>
+                                                                <td align="left" class="sidelink">
+                                                                 <asp:LinkButton ID="LinkButton5" Text="Feedback Form" Font-Names="Verdana" 
+                                                                        runat="server" onclick="LinkButton5_Click"  ></asp:LinkButton>
+                                                                   <%-- <a href="inq_form.aspx">Feedback Form</a>--%>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="images/bull_link.jpg" width="6" height="6" />
+                                                                </td>
+                                                                <td align="left" class="sidelink">
+                                                                <asp:LinkButton ID="LinkButton6" Text="Events" Font-Names="Verdana" 
+                                                                        runat="server" onclick="LinkButton6_Click"  ></asp:LinkButton>
+                                                                  <%--  <a href="events.aspx">Events</a>--%>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="images/bull_link.jpg" width="6" height="6" />
+                                                                </td>
+                                                                <td align="left" class="sidelink">
+                                                                <asp:LinkButton ID="LinkButton7" Text="Bare Act" Font-Names="Verdana" 
+                                                                        runat="server" onclick="LinkButton7_Click"  ></asp:LinkButton>
+                                                                   <%-- <a href="bare_act3.aspx">Bare Act</a>--%>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" bgcolor="#FFFFFF">
+                                            <table border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td colspan="2" align="left">
+                                                        <img src="images/link_regi.jpg" alt="Registration" width="199" height="63" />
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <%-- <td width="101" align="center">
+                                                        <table border="0" cellspacing="0" cellpadding="6">
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="images/bull_regi.jpg" width="6" height="6" />
+                                                                </td>
+                                                                <td class="regilink">
+                                                                    <a href="faq.aspx">Faq</a>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>--%>
+                                                    <td width="98" align="center">
+                                                        <table border="0" cellspacing="0" cellpadding="6">
+                                                            <tr>
+                                                                <td>
+                                                                    <img src="images/bull_regi.jpg" width="6" height="6" />
+                                                                </td>
+                                                                <td class="regilink">
+                                                                    <a href="PDFFiles/epilpa_registration_form.pdf" target="_blank">Form</a>
+                                                                    <%--<a href="regi_form/regi_form.pdf">Form</a>--%>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td align="left" valign="top" class="bg_newslink">
+                                            <table border="0" cellspacing="0" cellpadding="0">
+                                                <tr>
+                                                    <td align="left" valign="top" colspan="2">
+                                                        <img src="images/tit_ne.jpg" alt="News &amp; Events" width="208" height="57" vspace="5" />
+                                                    </td>
+                                                </tr>
+                                                  <tr>
+                                                    <td>
+                                                        <img src="images/bull_link.jpg" width="6" height="6" />
+                                                    </td>
+                                                    <td align="left" class="sidelink">
+                                                        &nbsp;
+                                                          <%--  <a href="PDFFiles/Amendments_under_Labour_Laws _2016.pdf" target="_blank" style="font-size: 12px;">
+                                                            Workshop PPT held on 21.10.16</a>--%>
+
+                                                            <a href="PDFFiles/Epilpa_Workshop_27.2.2017.pdf" target="_blank" style="font-size: 12px;">
+                                                            EPILPA WORKSHOP on 27/02/2017 (Monday)</a>
+                                                    </td>
+                                                </tr>
+                                            <%--    <tr>
+                                                    <td>
+                                                        <img src="images/bull_link.jpg" width="6" height="6" />
+                                                    </td>
+                                                    <td align="left" class="sidelink">
+                                                        &nbsp;
+                                                            <a href="PDFFiles/Amendments under Labour Laws by EPILPA.PDF" target="_blank" style="font-size: 12px;">
+                                                            Writeup on Epilpa Seminar &nbsp;&nbsp;Dated 27/02/16</a>
+                                                    </td>
+                                                </tr>--%>
+                                                <%--<tr>
+                                                    <td>
+                                                        <img src="images/bull_link.jpg" width="6" height="6" />
+                                                    </td>
+                                                    <td align="left" class="sidelink">
+                                                        &nbsp;<a href="PDFFiles/DA IN MARATHI JAN'15 TO JUNE'15.pdf" target="_blank" style="font-size: 12px;">
+                                                            DA for Jan15 to June15</a>
+                                                    </td>
+                                                </tr>--%>
+                                                <%--<tr>
+                                                    <td>
+                                                        <img src="images/bull_link.jpg" width="6" height="6" />
+                                                    </td>
+                                                    <td align="left" class="sidelink">
+                                                        &nbsp;<a href="PDFFiles/Epilpa referance order Form 2016.doc" target="_blank" style="font-size: 12px;">
+                                                            EPILPA Diary form 2016</a>
+                                                    </td>
+                                                </tr>--%>
+                                                <%--<tr>
+                                                    <td style="padding-left: 4px;">
+                                                        <img src="images/bull_link.jpg" width="6" height="6" />
+                                                    </td>
+                                                    <td class="sidelink" align="left">
+                                                        <a href="epilpa.jpg" target="_blank" title="Events so far" style="color: #A9CFDA;
+                                                            font-size: 12px;">Events so far</a>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td style="padding-left: 4px;">
+                                                        &nbsp;
+                                                    </td>
+                                                    <td class="sidelink" align="left">
+                                                        &nbsp;
+                                                    </td>
+                                                </tr>--%>
+                                                <%--<tr>
+                                                    <td style="padding-left: 4px;">
+                                                        <img src="images/bull_link.jpg" width="6" height="6" />
+                                                    </td>
+                                                    <td class="sidelink" align="left">
+                                                        <a href="PDFFiles/SPECIAL%20ALLOWANCE%20FOR%20JULY%202012%20TO%20DEC%202012%20(EPILPA).pdf"
+                                                            target="_blank" title="Events so far" style="color: #A9CFDA; font-size: 12px;">Maharashtra
+                                                            D.A. for
+                                                            <br />
+                                                            July'12-Dec'12</a>
+                                                    </td>
+                                                </tr>--%>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height="2" bgcolor="#FFFFFF">
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td bgcolor="#5F1818">
+                                            <table width="100%" border="0" cellpadding="5" cellspacing="0">
+                                                <tr>
+                                                    <td align="left" class="sidelink">
+                                                        <div align="left" class="text_regino">
+                                                            The Societies Regd. Act, 1860<br />
+                                                            Regd. No. Maharashtra State<br />
+                                                            Bombay 671/1995 GBBSD
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                                <tr>
+                                                    <td align="left">
+                                                        <div align="left">
+                                                            <span class="text_regino">The Mumbai Public Trust Act, 1950<br />
+                                                                Regd. No. F-17772 of 27-11-95</span>
+                                                            <br />
+                                                        </div>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td height="2" bgcolor="#FFFFFF">
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td valign="top" bgcolor="#EAEAEA">
+                                <!-- InstanceBeginEditable name="content" -->
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                    <tr>
+                                        <td valign="top" bgcolor="#FFFFFF">
+                                            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                                            </asp:ContentPlaceHolder>
+                                        </td>
+                                    </tr>
+                                </table>
+                                <!-- InstanceEndEditable -->
+                            </td>
+                        </tr>
+                        <tr>
+                            <td width="224" bgcolor="#5F1818">
+                                <table width="100%" border="0" cellpadding="5" cellspacing="0">
+                                    <tr>
+                                        <td align="left" class="text_addrs">
+                                            <p>
+                                                Regi. Office :</p>
+                                            <p>
+                                                A- 501, Shiv-Hara, Carter Road No.2,<br />
+                                                Borivali (East), Mumbai - 400 066.</p>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                            <td valign="bottom">
+                                <table width="100%" border="0" cellpadding="7" cellspacing="0">
+                                    <tr>
+                                        <td>
+                                            <table width="100%" border="0" cellpadding="5" cellspacing="0" bgcolor="#FABABA">
+                                                <tr>
+                                                    <td align="center">
+                                                        <table border="0" cellspacing="0" cellpadding="0">
+                                                            <tr>
+                                                                <td align="center">
+                                                                    <table border="0" cellspacing="0" cellpadding="1">
+                                                                        <tr>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="index.aspx">Home</a><b> </b>
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                ||
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="About.aspx">About us</a>
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                ||
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="committee.aspx">Managing Committee</a>
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                ||
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="constitution.aspx">Constitution</a>
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                ||
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="news.aspx">News Room</a>
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                ||
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="bulletin.aspx">Bulletin</a>
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                ||
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="report.aspx">Annual reports</a>
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="center" class="style2">
+                                                                    <table border="0" cellspacing="0" cellpadding="1">
+                                                                        <tr>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="inq_form.aspx">Inquiry Form</a>
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                ||
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="events.aspx">Events</a>
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                ||
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="bare_act.aspx">Bare Act</a>
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                ||
+                                                                            </td>
+                                                                            <td align="center" class="text_s_link">
+                                                                                <a href="contact.aspx">Contact Us</a>|| Terms of Use || Privacy Policy
+                                                                            </td>
+                                                                        </tr>
+                                                                    </table>
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="center">
+                                                                    &nbsp;
+                                                                </td>
+                                                            </tr>
+                                                            <tr>
+                                                                <td align="center" class="text_copy">
+                                                                    <strong>Copyrights © 2009 . All rights reserved&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+                                                                        Powered&nbsp; by Newtech infosoft Pvt. Ltd. </strong>
+                                                                </td>
+                                                            </tr>
+                                                        </table>
+                                                    </td>
+                                                </tr>
+                                            </table>
+                                        </td>
+                                    </tr>
+                                </table>
+                            </td>
+                        </tr>
+                    </table>
+                </td>
+            </tr>
+        </table>
+    </div>
+    </form>
+</body>
+</html>
